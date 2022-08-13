@@ -4,7 +4,7 @@
 <h2>To Run:</h2>
 
 
-<h2>Roadmap of future improvements</h2>
+<h2>Roadmap of future improvements:</h2>
 
 <h2>License</h2>
 MIT License
