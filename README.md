@@ -1,5 +1,6 @@
 # EyeExercise
-
+<img src="Eyes1.png" alt="Photo of Eyes project background" title="Eyes Background">
+<img src="Eyes2.png" alt="Photo of Eyes project - looking up and left" title="Eyes">
 
 <h2>To Run:</h2>
 
