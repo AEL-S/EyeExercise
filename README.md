@@ -1,11 +1,14 @@
 # EyeExercise
+This assigment was completed for the MIT xPro Fullstack Development with MERN certificate program. Javascript, CSS, and HTML are combined to create an interactive page where the eyes follow the mouse around the page.
+
 <img src="Eyes1.png" alt="Photo of Eyes project background" title="Eyes Background">
 <img src="Eyes2.png" alt="Photo of Eyes project - looking up and left" title="Eyes">
 
 <h2>To Run:</h2>
-
+Everything required to run this project is in this repository. You're welcome to fork and clone this repository, or you can just navigate to: https://ael-s.github.io/EyeExercise/.
 
 <h2>Roadmap of future improvements:</h2>
+I plan to come back to this project and eventually make it work on mobile devices. I will also be adding a pupil to make the eyes look more realistic.  
 
 <h2>License</h2>
 MIT License
