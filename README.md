@@ -1,5 +1,5 @@
 # EyeExercise
-This assigment was completed for the MIT xPro Fullstack Development with MERN certificate program. Javascript, CSS, and HTML are combined to create an interactive page where the eyes follow the mouse around the page.
+This assigment was completed for the MIT xPro Fullstack Development with MERN certificate program. A Javascript onmousemove event, CSS, and HTML are combined to create an interactive page where the eyes follow the mouse around the page. 
 
 <img src="Eyes1.png" alt="Photo of Eyes project background" title="Eyes Background">
 <img src="Eyes2.png" alt="Photo of Eyes project - looking up and left" title="Eyes">
