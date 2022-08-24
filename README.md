@@ -8,7 +8,7 @@ This assigment was completed for the MIT xPro Fullstack Development with MERN ce
 Everything required to run this project is in this repository. You're welcome to fork and clone this repository, or you can just navigate to: https://ael-s.github.io/EyeExercise/.
 
 <h2>Roadmap of future improvements:</h2>
-I plan to come back to this project and eventually make it work on mobile devices. I will also be adding a pupil to make the eyes look more realistic.  
+I plan to come back to this project and eventually make it work better on mobile devices. I will also be adding pupils and eyelashes to make the eyes look more realistic.  
 
 <h2>Support:</h2>
 Feel free to email me at Aesteg89@gmail.com or message me on LinkedIn (https://www.linkedin.com/in/anna-stegmann-77825b136/) if you have any questions. 
