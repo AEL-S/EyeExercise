@@ -1,10 +1,9 @@
 body {
-    margin: 0;
-    padding: 0;
-    background: black;
-    /* background: #14495e; */
-    
-  }
+  background:url("ryan-hutton-Jztmx9yqjBw-unsplash copy.jpg") no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+ }
 
   .eyes {
     position: absolute;
