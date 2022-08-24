@@ -1,8 +1,8 @@
 # EyeExercise
 This assigment was completed for the MIT xPro Fullstack Development with MERN certificate program. A Javascript onmousemove event, CSS, and HTML are combined to create an interactive page where the eyes follow the mouse around the page. 
 
-<img src="Eyes1.png" alt="Photo of Eyes project background" title="Eyes Background">
-<img src="Eyes2.png" alt="Photo of Eyes project - looking up and left" title="Eyes">
+<img src="EyesPic1.png" alt="Photo of Eyes project background" title="Eyes Background">
+<img src="EyesPic2.png" alt="Photo of Eyes project - looking up and left" title="Eyes">
 
 <h2>To Run:</h2>
 Everything required to run this project is in this repository. You're welcome to fork and clone this repository, or you can just navigate to: https://ael-s.github.io/EyeExercise/.
