@@ -11,7 +11,7 @@ Everything required to run this project is in this repository. You're welcome to
 I plan to come back to this project and eventually make it work better on mobile devices. I will also be adding pupils and eyelashes to make the eyes look more realistic.  
 
 <h2>Support:</h2>
-Feel free to email me at Aesteg89@gmail.com or message me on LinkedIn (https://www.linkedin.com/in/anna-stegmann-77825b136/) if you have any questions. 
+Feel free to message me on LinkedIn (https://www.linkedin.com/in/anna-stegmann-77825b136/) if you have any questions. 
 
 <h2>License</h2>
 MIT License
